@@ -1,0 +1,170 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.left{
+    width: 500px;
+    height:100vh;
+    background: black;
+    margin-left: -300px;
+    box-shadow:0px 0px 2px 2px pink ;
+}
+.right{
+    width: 450px;
+    height:100vh; 
+    background: pink; 
+    position: absolute;
+    margin-left: 500px;
+    border-radius: 10% 0% 0% 10%/10% 0% 0% 10%;
+    box-shadow: 0px 0px 2px 2px pink;
+}
+.img-box img{
+    width: 100px;
+    height: 130px;
+    border-radius: 50%;
+    margin: auto;
+    margin-left: 140px;
+    margin-top:10px ;
+}
+#profile{
+    color: white;
+    font-size: 18px;
+    font-family: century Gothic;
+    text-decoration: underline;
+    text-decoration-color: pink;
+    text-underline-offset: 10px;
+    margin-left: 100px;
+}
+#content{
+    color:white;
+    font-size: 15px;
+    font-family: century Gothic;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+#languanges{
+    color: white;
+    font-size: 18px;
+    font-family: century Gothic;
+    margin-top: 5px;
+    margin-left: 100px;
+    text-decoration: underline;
+    text-decoration-color: pink;
+    text-underline-offset: 10px;
+}
+ul li{
+    list-style:none;
+    color: white;
+    font-size: 15px;
+    font-family: century Gothic;
+    margin-left: 40px;
+}
+#skills{
+    color: white;
+    font-size: 18px;
+    font-family: Century Gothic;
+    margin-left: 100px;
+    text-decoration: underline;
+    text-decoration-color: pink;
+    text-underline-offset: 10px;
+}
+#interest{
+    color: white;
+    font-family: century Gothic;
+    font-size: 18px;
+    margin-left: 100px;
+    text-decoration: underline;
+    text-decoration-color: pink;
+    text-underline-offset: 10px;
+}
+#name{
+    color: black;
+    font-family: century Gothic;
+    font-size: 30px;
+    margin-left: 100px; 
+}
+#career{
+    color: black;
+    font-size: 14px;
+    margin-left:142px;
+    font-family: century Gothic;
+}
+#title1{
+    color: black;
+    font-size: 18px;
+    margin-left: 90px;
+    font-family: century Gothic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-underline-offset: 10px;
+}
+#details{
+    color: black;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: century Gothic;
+    font-weight: 500;
+}
+#training{
+    color: black;
+    font-size: 18px;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-family: century Gothic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-underline-offset: 10px;
+}
+#item1{
+    color: black;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#project{
+    color: black;
+    font-size: 18px;
+    font-family: century Gothic;
+    margin-left: 60px;
+    margin-top: 10px;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-underline-offset: 10px;
+}
+#description{
+    color: black;
+    font-size: 14px;
+    font-family: century Gothic;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#contact{
+    color: black;
+    font-family: century Gothic;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#btn{
+    width: 120px;
+    height: 40px;
+    background: pink;
+    border-radius: 10px;
+    margin-left: 120px;
+    margin-top: 10px;
+    font-family: century Gothic;
+}
